@@ -5,7 +5,7 @@ PERSON2=$2
 
 echo " $PERSON1 : hi $PERSON2 .. how are you "
 echo "$PERSON2 : hi $PERSON1 .. iam fine , how are you "
-eccho "$PERSON1 : iam good, did you buy the car $PERSON2"
+echo "$PERSON1 : iam good, did you buy the car $PERSON2"
 echo "$PERSON2 : no $PERSON1 i didn't purchase"
 
 
