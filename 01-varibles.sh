@@ -1,10 +1,13 @@
 #! /bin/bash
-
-echo "nandu : hi devy .. how are you "
-echo "devy : hi nandu .. iam fine , how are you "
-eccho "nandu : iam good, did you buy the car devy"
-echo "devy : no nandu i didn't purchase"
+PERSON1=$1
+PERSON2=$2
 
 
-echo "nandu are you out of mind or what"
-echo "no devy iam not insane iam good devy"
+echo " $PERSON1 : hi $PERSON2 .. how are you "
+echo "$PERSON2 : hi $PERSON1 .. iam fine , how are you "
+eccho "$PERSON1 : iam good, did you buy the car $PERSON2"
+echo "$PERSON2 : no $PERSON1 i didn't purchase"
+
+
+echo "$PERSON1 are you out of mind or what"
+echo "no $PERSON2 iam not insane iam good $PERSON2"
