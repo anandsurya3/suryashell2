@@ -1,6 +1,6 @@
 #!/b$THING1n/bash
 
-THING1=i
+THING1=$5
 
 
 PERSON4=$1
