@@ -1,18 +1,18 @@
-#!/b$THING1n/bash
+#!/b$TH$TH$TH$THING1NG1NG1NG1n/bash
 
-THING1=$5
+TH$TH$TH$THING1NG1NG1NG1=$5
 
 
 PERSON4=$1
 PERSON3=$2
 
-echo $PERSON3: "H$THING1 there, $THING1t $THING1s $PERSON4, r$THING1ght?"
-echo $PERSON4: "H$THING1, yes! You must be $PERSON3. You recently jo$THING1ned the team, correct?"
-echo $PERSON3: "Yes $THING1ndeed, $PERSON4. The group manager told me that you would be my mentor for the f$THING1rst few months."
-echo $PERSON4: "That’s r$THING1ght, $PERSON3. $THING1'll be tra$THING1n$THING1ng you on the d$THING1g$THING1tal market$THING1ng module. Do you have any pr$THING1or exper$THING1ence, $PERSON3?"
-echo $PERSON3: "$THING1 have bas$THING1c SEO knowledge, $PERSON4, but $THING1'm keen to expand $THING1nto a spec$THING1al$THING1st role."
-echo $PERSON4: "Awesome, $PERSON3. $THING1’ve been $THING1n th$THING1s doma$THING1n for s$THING1x years, so $THING1 should be able to gu$THING1de you well."
-echo $PERSON3: "Thanks a lot, $PERSON4. S$THING1nce $THING1t’s my f$THING1rst day, are there any other formal$THING1t$THING1es $THING1 should know about?"
-echo $PERSON4: "You should be f$THING1ne, $PERSON3. Just make sure your name $THING1s $THING1n the transport roster $THING1f you use the shuttle."
-echo $PERSON3: "Oh, thanks for $THING1nform$THING1ng me, $PERSON4. $THING1 w$THING1ll check that dur$THING1ng the break."
-echo $PERSON4: "No problem, $PERSON3. Let's head to the meet$THING1ng now."
+echo $PERSON3: "H$TH$TH$TH$THING1NG1NG1NG1 there, $TH$TH$TH$THING1NG1NG1NG1t $TH$TH$TH$THING1NG1NG1NG1s $PERSON4, r$TH$TH$TH$THING1NG1NG1NG1ght?"
+echo $PERSON4: "H$TH$TH$TH$THING1NG1NG1NG1, yes! You must be $PERSON3. You recently jo$TH$TH$TH$THING1NG1NG1NG1ned the team, correct?"
+echo $PERSON3: "Yes $TH$TH$TH$THING1NG1NG1NG1ndeed, $PERSON4. The group manager told me that you would be my mentor for the f$TH$TH$TH$THING1NG1NG1NG1rst few months."
+echo $PERSON4: "That’s r$TH$TH$TH$THING1NG1NG1NG1ght, $PERSON3. $TH$TH$TH$THING1NG1NG1NG1'll be tra$TH$TH$TH$THING1NG1NG1NG1n$TH$TH$TH$THING1NG1NG1NG1ng you on the d$TH$TH$TH$THING1NG1NG1NG1g$TH$TH$TH$THING1NG1NG1NG1tal market$TH$TH$TH$THING1NG1NG1NG1ng module. Do you have any pr$TH$TH$TH$THING1NG1NG1NG1or exper$TH$TH$TH$THING1NG1NG1NG1ence, $PERSON3?"
+echo $PERSON3: "$TH$TH$TH$THING1NG1NG1NG1 have bas$TH$TH$TH$THING1NG1NG1NG1c SEO knowledge, $PERSON4, but $TH$TH$TH$THING1NG1NG1NG1'm keen to expand $TH$TH$TH$THING1NG1NG1NG1nto a spec$TH$TH$TH$THING1NG1NG1NG1al$TH$TH$TH$THING1NG1NG1NG1st role."
+echo $PERSON4: "Awesome, $PERSON3. $TH$TH$TH$THING1NG1NG1NG1’ve been $TH$TH$TH$THING1NG1NG1NG1n th$TH$TH$TH$THING1NG1NG1NG1s doma$TH$TH$TH$THING1NG1NG1NG1n for s$TH$TH$TH$THING1NG1NG1NG1x years, so $TH$TH$TH$THING1NG1NG1NG1 should be able to gu$TH$TH$TH$THING1NG1NG1NG1de you well."
+echo $PERSON3: "Thanks a lot, $PERSON4. S$TH$TH$TH$THING1NG1NG1NG1nce $TH$TH$TH$THING1NG1NG1NG1t’s my f$TH$TH$TH$THING1NG1NG1NG1rst day, are there any other formal$TH$TH$TH$THING1NG1NG1NG1t$TH$TH$TH$THING1NG1NG1NG1es $TH$TH$TH$THING1NG1NG1NG1 should know about?"
+echo $PERSON4: "You should be f$TH$TH$TH$THING1NG1NG1NG1ne, $PERSON3. Just make sure your name $TH$TH$TH$THING1NG1NG1NG1s $TH$TH$TH$THING1NG1NG1NG1n the transport roster $TH$TH$TH$THING1NG1NG1NG1f you use the shuttle."
+echo $PERSON3: "Oh, thanks for $TH$TH$TH$THING1NG1NG1NG1nform$TH$TH$TH$THING1NG1NG1NG1ng me, $PERSON4. $TH$TH$TH$THING1NG1NG1NG1 w$TH$TH$TH$THING1NG1NG1NG1ll check that dur$TH$TH$TH$THING1NG1NG1NG1ng the break."
+echo $PERSON4: "No problem, $PERSON3. Let's head to the meet$TH$TH$TH$THING1NG1NG1NG1ng now."
